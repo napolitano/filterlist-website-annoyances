@@ -6,4 +6,4 @@ This repository contains a list of filter rules for the uBlock Origin plugin (an
 
 Please consider supporting websites you visit regularly with a subscription - this helps to keep the advertising madness from spreading further and motivates operators to use payment models as an alternative to advertising.
 
-** In creation. Please check back again in a few days.
+**In creation. Please check back again in a few days.**
